@@ -1,4 +1,4 @@
-# Kubo Ryosuke
+# Kubo, Ryosuke
 
 - 📹 I'm developing video streaming services on [AbemaTV](https://github.com/abema) since 2016.
   - [go-mp4](https://github.com/abema/go-mp4) is golang library to read/write MP4 box.
